@@ -2,7 +2,7 @@
 
 function replace() {
     var pic = document.getElementById("vid1");
-    pic.innerHTML = "<video controls autoplay src='outnumber.mp4'></video>";
+    pic.innerHTML = "<video controls autoplay src='OUTNUMBER.mp4'></video>";
 }
 
 
