@@ -8,7 +8,7 @@ function replace() {
 
 function mouseItem(){
     var list = document.getElementById("list");
-    list.innerHTML = "<li>E-Commerce store created on Shopify Platform.</li> <li>For the fashion brand, OUTNUMBER.</li> <li>Opened S/S2019 for Pre-orders.</li> <li>Languages used: HTML, CSS, Javascript & Liquid.</li>";
+    list.innerHTML = "<li>Click on OUTNUMBER image to see more!</li><li>E-Commerce store created on Shopify Platform.</li> <li>For the fashion brand, OUTNUMBER.</li> <li>Opened S/S2019 for Pre-orders.</li> <li>Languages used: HTML, CSS, Javascript & Liquid.</li>";
 }
 function mouseItem1(){
     var oopsie = document.getElementById("oopsie");
